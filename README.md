@@ -6,7 +6,9 @@ A web based memory game using react.js, This application renders different Simps
 ## Image Demo
 
 #### Home Screen
-![alt text](./public/assets/images/home.png)
+![alt text](./public/assets/images/home2.png)
 
-#### Reset Game 
-![alt text](./public/assets/images/reset.game.png)
+## Deployment
+
+[Heroku Deployment found here](https://young-savannah-55475.herokuapp.com).
+
